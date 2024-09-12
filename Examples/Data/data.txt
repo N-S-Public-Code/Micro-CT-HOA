@@ -1,0 +1,16 @@
+Attached (significantly) compressed sample of the data.
+
+-------------------------------------------------------
+ESRF ID19
+-------------------------------------------------------
+projection, images 0-3499
+dark fields, images 3500-3519
+flat fields obtained before object scannning, images 3520-3571
+flat fields obtained after scannig the object, images 3572-3621
+-------------------------------------------------------
+BAMline
+-------------------------------------------------------
+dark fields, image 0
+flat fields obtained before object scannning, images 1-20
+flat fields obtained after scannig the object, images 21-41
+projection, images 42-2441
