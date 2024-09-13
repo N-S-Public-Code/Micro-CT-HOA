@@ -16,4 +16,4 @@ X-ray microtomography is a widely used imaging technique with a limited field of
 <p>7. Reconstruct stitched radiographs</p>
 <img src="images\image__rec1193.jpg" alt="DFFC" width="200"/><br>
 <h2>Disclaimer</h2>
-<h3>This code is currently in its preliminary stages, and updates are anticipated soon, including modifications, optimizations, and GPU support. In the meantime, the code should be adjusted to the specific dataset in order to achieve the desired results.</h3>
+<h3>This code is currently in its preliminary stages, and updates are anticipated soon, including modifications, optimizations, and GPU support. In the meantime, the code should be carefully adjusted to the specific dataset in order to achieve the desired results.</h3>
