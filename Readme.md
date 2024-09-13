@@ -3,7 +3,7 @@
 X-ray microtomography is a widely used imaging technique with a limited field of view, thus, scanning large objects requires employing an appropriate data acquisition scheme or stitching technique to obtain the entire object’s reconstruction. Half-object acquisition is a popular method for addressing such a scenario, where truncated data collected for a 360-degree rotating object is processed, yielding a representation of the entire object for 180-degree rotation. Whereas pre-reconstruction stitching of sinograms and post-reconstruction tomogram stitching techniques are well established, the current approach for processing radiographs exhibits limitations, especially when high-quality outcomes are demanded. In our study, we present and overcome those limitations with proposed reliable processing approach which can be generalized to other tomographic modalities. The proposed approach is demonstrated using microtomographic experimental data, yielding artifact-free tomograms with enhanced sharpness even for challenging datasets.
 </p>
 <h3>Paper:</h3>
-<p>N.N Shubayev, T. Mass, L. Broche, P. Zaslansky, "On Half-Object Acquisition and Tomographic Pre-Reconstruction Processing of Large Object: Limitations and a Reliable Approach"</p> 
+<p>N.N. Shubayev, T. Mass, L. Broche, P. Zaslansky, "On Half-Object Acquisition and Tomographic Pre-Reconstruction Processing of Large Object: Limitations and a Reliable Approach"</p> 
 <h2>Pre-Reconstruction Processing Pipeline for Object Exceeding The Field of View:</h2>
 <p>1. Obtain the data for 360-deg rotation of the object : radiographs, flat-fields (before and after scannig the object), dark fields </p>
 <p>2. Perform Dynamic Flat-Field Correction (FFC) </p>
